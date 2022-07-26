@@ -4,7 +4,7 @@
   <a href="https://vk.com/kneizor">
     <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
-    <a href="denisstukalo33@gmail.com">
+    <a href="mailto:denisstukalo33@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC2IyUdznHZtfWRWWytRzb0A">
@@ -35,7 +35,7 @@
 
 - :zap: In my free time, I solve problems on CodeWars and read technical articles.
 
-- :mailbox:How to reach me: [![GMAIL Badge](https://img.shields.io/badge/-GMAIL-red?style=flat&logo=GMAIL&logoColor=white)](denisstukalo33@gmail.com)
+- :mailbox:How to reach me: [![GMAIL Badge](https://img.shields.io/badge/-GMAIL-red?style=flat&logo=GMAIL&logoColor=white)](mailto:denisstukalo33@gmail.com)
 
 </div>
 <div>
