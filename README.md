@@ -71,7 +71,7 @@
   
   [![codewars](https://www.codewars.com/users/KNEIZOR/badges/large)](https://www.codewars.com/users/KNEIZOR)  
 </div>
-<div>
+<div align="center">
 
 ---
 
