@@ -5,13 +5,17 @@
     <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
     <a href="mailto:denisstukalo33@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/GMAIL-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  </a>
+    <a href="https://t.me/kneizor">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC2IyUdznHZtfWRWWytRzb0A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.instagram.com/kneizor/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=KNEIZOR&style=flat-square&color=blue" alt=""/>
