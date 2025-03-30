@@ -39,7 +39,7 @@
 
 - :zap: In my free time, I solve problems on CodeWars and read technical articles.
 
-- :mailbox:How to reach me: [![GMAIL Badge](https://img.shields.io/badge/-GMAIL-red?style=flat&logo=GMAIL&logoColor=white)](mailto:denisstukalo33@gmail.com)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/kneizor)
 
 </div>
 <div>
